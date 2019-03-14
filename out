@@ -1,0 +1,55 @@
+
+
+ ||RESUELVE SISTEMAS LINEALES DETERMINADOS POR GAUSS||
+
+
+ Introduce el numero de incognitas:(menor que 100)
+
+ PASE A INTRODUCIR CADA COMPONENTE DEL SISTEMA (A|B):
+
+ MATRIZ A:
+
+ Termino A(1,1):
+ Termino A(1,2):
+ Termino A(1,3):
+ Termino A(1,4):
+ Termino A(2,1):
+ Termino A(2,2):
+ Termino A(2,3):
+ Termino A(2,4):
+ Termino A(3,1):
+ Termino A(3,2):
+ Termino A(3,3):
+ Termino A(3,4):
+ Termino A(4,1):
+ Termino A(4,2):
+ Termino A(4,3):
+ Termino A(4,4):
+
+
+ VECTOR B:
+
+ Termino B(1):
+ Termino B(2):
+ Termino B(3):
+ Termino B(4):
+
+
+El SISTEMA introducido es el siguiente: 
+
+   1.50   0.00  -1.00  -0.25   |  -1.00
+   0.00   1.50  -1.00   0.00   |   3.00
+  -1.00  -1.00   2.00   0.00   |   2.70
+  -0.25   0.00   0.00   1.25   |   0.30
+
+
+
+Las soluciones son:
+
+ X1=3.694665
+
+ X2=6.198483
+
+ X3=6.297724
+
+ X4=0.977093
