@@ -1,10 +1,8 @@
-#include <iostream>
-#include <algorithm>    // for lower_bound, upper_bound and sort
-#include <vector>       // for vector
-#include <cstdio>
-#include <cmath> 
-using namespace std;
- 
+#include<algorithm>
+#include<cmath>
+#include<cstdio>
+#include<cstring>
+using namespace std; 
 int main ()
 {
     int gfg[] = {5};
