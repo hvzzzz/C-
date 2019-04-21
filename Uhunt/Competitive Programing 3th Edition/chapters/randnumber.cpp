@@ -5,5 +5,10 @@ using namespace std;
 int main()
 {
     srand(time(0));
-    cout << rand()<<endl;
+    int randi=rand();//rand number
+    cout <<randi<<endl;
+    cout <<randi%10<<endl;
+    cout <<randi%100<<endl;
+    cout <<randi%1000<<endl;
+    cout <<randi%10000<<endl;
 }
